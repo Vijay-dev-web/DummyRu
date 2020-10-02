@@ -1,3 +1,5 @@
-#Christmas Season
+# Christmas Season
 
-Tis the season!!!
+## Tis the season!!!
+
+This can be used as an email reference for creating cards during Christmas
