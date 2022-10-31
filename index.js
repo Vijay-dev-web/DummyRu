@@ -23,6 +23,13 @@ app.get('/hacktoberfest', (req, res) => {
   })
 })
 
+app.post('/pages', (req, res) => {
+res.send({
+      status: 200,
+      message: "create pages"
+  })
+})
+
 app.listen(port, () => {
   console.log("Server active at port", port);
 )
