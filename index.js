@@ -9,6 +9,13 @@ app.use("/", (req, res) > {
   })
 })
 
+app.get('/home', (req, res) => {
+  res.send({
+      status: 200,
+      message: "Added Home page"
+  })
+})
+
 app.listen(port, () => {
   console.log("Server active at port", port);
 )
