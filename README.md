@@ -6,3 +6,8 @@
 4. Remainig routes to be added : 
   - Error page
   - search functionllity
+
+5. MR will be labelled as hacktoberfest-accepted
+
+
+My First contribution to Hacktoberfest!
