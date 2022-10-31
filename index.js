@@ -30,6 +30,15 @@ res.send({
   })
 })
 
+
+
+app.post('/additonalPages', (req, res) => {
+res.send({
+      status: 200,
+      message: "create additional pages"
+  })
+})
+
 app.listen(port, () => {
   console.log("Server active at port", port);
 )
