@@ -10,4 +10,7 @@
 5. MR will be labelled as hacktoberfest-accepted
 
 
+
+7. Completed
+
 My First contribution to Hacktoberfest!
