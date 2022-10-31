@@ -8,6 +8,7 @@
   - search functionllity
 
 5. MR will be labelled as hacktoberfest-accepted
+6. Added Error Page
 
 
 My First contribution to Hacktoberfest!
